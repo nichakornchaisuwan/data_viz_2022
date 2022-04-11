@@ -9,4 +9,4 @@ Basic Programming for Data Science and Data Visuailzation : ณิชากร �
 ********************************************************************************************
 # Final Project
 * [Colab เตรียมข้อมูล](https://github.com/nichakornchaisuwan/data_viz_2022/blob/main/Final_Exam.ipynb)
-* [Link Dashboard](https://datastudio.google.com/reporting/ead91b08-e2e7-4d37-9c35-3a6e9c54f89a)
+* [Link Dashboard](https://datastudio.google.com/s/sU-xjfkLv3Q)
